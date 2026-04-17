@@ -1,19 +1,31 @@
 🟦 HR Analytics Dashboard Suite | Power BI
+
 An end-to-end analysis of employee attrition, compensation, and satisfaction using interactive dashboards and business-driven insights.
 
 🟦 About the Project:
+
 This project focuses on analyzing key HR metrics to identify patterns in employee attrition, compensation distribution, and satisfaction levels.
+
 The goal was to build an interactive dashboard suite that enables stakeholders to:
+
 Understand why employees leave
+
 Evaluate salary structures
+
 Analyze employee satisfaction trends
 
 🟦 TOOLS & SKILLS USED
+
 Power BI
+
 DAX (Data Analysis Expressions)
+
 Data Cleaning (Excel)
+
 Data Visualization
+
 Business Analysis
+
 Dashboard Design
 
 🟦 DATASET DESCRIPTION
